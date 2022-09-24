@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "Sweden Central" 
+            "value": "East US" 
         },
         "sqlServerName": {
             "value": "globalazure2022-to-omegamadlab-dev"

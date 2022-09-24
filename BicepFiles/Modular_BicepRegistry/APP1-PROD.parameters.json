@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "Sweden Central" 
+            "value": "East US" 
         },
         "sqlServerName": {
             "value": "1nn0vaSaturday-demo2-omegamadlab-prod"
